@@ -20,4 +20,8 @@
 
     --font-heading: var(--font-oxanium);
     --font-sans: var(--font-montserrat); /* Default font */
+
+    /* 0.625rem: 0.625 * 16px (fonte do corpo) = 10px */
+    --radius-xl: 0.625rem; 
+
 }
